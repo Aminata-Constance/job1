@@ -1,0 +1,53 @@
+h1{
+    color:#B46D63;
+    background-color: #FEF7F6;
+    text-align: center;
+    margin: 0,5%;
+    height:  ;
+    width: ;
+}
+
+h2{
+    color: #B46D63;
+}
+
+.cv-dl {
+    text-align: none;
+}
+
+.cv-dl a {
+    text-decoration: none;
+}
+
+footer a{
+    text-decoration: none;
+
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    background-color: white;
+    
+}
+
+  .little {
+    height: 740px;
+    width: 2000px;
+    background: #ECDAD9;
+    padding: 2px;
+    margin: 0;
+    padding: 60px;
+}
+
+.big {
+    height: 740px;
+    width: 5000px;
+    background: #FFF7F6 ;
+    padding: 60px;
+}
+header{
+    text-align: center ;
+}
